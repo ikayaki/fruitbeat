@@ -1,3 +1,5 @@
+//  2016.06.07 by ikayaki
+
 int[][] nomalNote = new int[5][600];
 int[][] longNoteStart =new int[2][600];
 int[][] longNoteStop =new int[2][600];
